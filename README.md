@@ -1,5 +1,5 @@
-# ok
-Dy Patil LMS Portal Automation.
+# Dy Patil LMS Portal Automation using SELENIUM Webdriver.
+
 Tired of doing the boring stuff by clikcing?
 Automate it using Python Script by Seleinum and PyautoGUI!
 Some quizes and Assignment upload needs to be done manaully.(Will be working on that too)
